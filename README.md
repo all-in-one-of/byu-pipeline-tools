@@ -1,6 +1,7 @@
 # Asset Management Tools for BYU Animation
 
 ## Installation
+
 To setup a production project:
 
 1. Clone the project into the desired directory and navigate into the byu-pipeline-tools directory.
